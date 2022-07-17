@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1657153398,
-        "narHash": "sha256-a30voB9714ddPphjtHYlM0LomwoIDpIDrqW0gHfJvV4=",
+        "lastModified": 1658018374,
+        "narHash": "sha256-UC5N5BPhoGYN09fJKEc7ywuzMiy6XWVNgxJ5bHlCMaY=",
         "owner": "nim-nix-pkgs",
         "repo": "winres",
-        "rev": "53d6c5e2fc744dae6154535534f7371aad23cd46",
+        "rev": "b85ed1d1a5ea98d5efb36e174ab205966ff38c28",
         "type": "github"
       },
       "original": {
